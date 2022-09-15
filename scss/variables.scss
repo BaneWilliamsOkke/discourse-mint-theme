@@ -10,21 +10,21 @@
   --mint-border-radius: 10px;
   --mint-hover-shadow: 4px 4px var(--tertiary-high);
   --mint-color-mint: #75bdad;
-  --mint-color-blue: #B47DFA;
+  --mint-color-blue: #D4B5FD;
   --mint-color-square-gradient: linear-gradient(
     4deg,
-    ter rgba(143, 236, 202, 0.29) 55%,
-    rgba(74, 247, 255, 0.08) 100%
+    ter rgba(255, 140, 110, 1) 55%,
+    rgba(180, 125, 250, 1) 100%
   );
 }
 
 $color-square-gradient: linear-gradient(
   4deg,
-  rgba(143, 236, 202, 0.29) 55%,
-  rgba(74, 247, 255, 0.08) 100%
+  rgba(255, 140, 110, 1) 55%,
+  rgba(180, 125, 250, 1) 100%
 );
 $color-square-webkit-gradient: -webkit-linear-gradient(
   4deg,
-  rgba(143, 236, 202, 0.29) 55%,
-  rgba(74, 247, 255, 0.08) 100%
+  rgba(255, 140, 110, 1) 55%,
+  rgba(180, 125, 250, 1) 100%
 );
